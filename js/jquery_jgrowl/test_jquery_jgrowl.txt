@@ -26,4 +26,4 @@ Minified::
   >>> print needed.render()
   <link rel="stylesheet" type="text/css" href="http://localhost/fanstatic/jquery_jgrowl/jquery.jgrowl.css" />
   <script type="text/javascript" src="http://localhost/fanstatic/jquery/jquery.min.js"></script>
-  <script type="text/javascript" src="http://localhost/fanstatic/jquery_jgrowl/jquery.jgrowl_minified.js"></script>
+  <script type="text/javascript" src="http://localhost/fanstatic/jquery_jgrowl/jquery.jgrowl_minimized.js"></script>
