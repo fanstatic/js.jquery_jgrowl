@@ -1,12 +1,12 @@
-from fanstatic import Library, ResourceInclusion
+from fanstatic import Library, Resource
 
 from js.jquery import jquery
 
 library = Library('jquery_jgrowl', 'resources')
 
-jquery_jgrowl_css = ResourceInclusion(library, 'jquery.jgrowl.css')
+jquery_jgrowl_css = Resource(library, 'jquery.jgrowl.css')
 
-jquery_jgrowl = ResourceInclusion(library, 'jquery.jgrowl.js',
+jquery_jgrowl = Resource(library, 'jquery.jgrowl.js',
     minified='jquery.jgrowl_minimized.js',
     depends=[jquery, jquery_jgrowl_css])
 
