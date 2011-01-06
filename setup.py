@@ -1,9 +1,7 @@
 from setuptools import setup, find_packages
 import os
 
-JQUERY_JGROWL_VERSION = '1.2.5'
 version = '1.2.5'
-# Name version after JQUERY_JGROWL_VERSION + .suffix
 
 
 def read(*rnames):
