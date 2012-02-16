@@ -1,7 +1,7 @@
 CHANGES
 *******
 
-1.2.5-1 (unreleased)
+1.2.5-1 (2012-02-16)
 ====================
 
 - We were using the wrong versions of the minified library, it 
