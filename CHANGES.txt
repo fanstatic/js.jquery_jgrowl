@@ -1,16 +1,15 @@
 CHANGES
 *******
 
-1.2.5-2 (unreleased)
+1.4.2 (unreleased)
 ====================
 
-- Nothing changed yet.
-
+- Update to jgrowl 1.4.2.
 
 1.2.5-1 (2012-02-16)
 ====================
 
-- We were using the wrong versions of the minified library, it 
+- We were using the wrong versions of the minified library, it
   wasn't 1.2.5. Fixed.
 
 1.2.5 (2011-01-06)
